@@ -1,4 +1,7 @@
 # 2D Space Shooter Game
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/104893311/212919349-6f70d8d2-5b7f-4934-b1f1-cf4456ab5472.png">
+</p>
 
 This README file provides an overview of the 2D space shooter game developed using Unity.
 
